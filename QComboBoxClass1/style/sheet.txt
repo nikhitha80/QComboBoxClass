@@ -1,0 +1,27 @@
+QPushButton[text="Capture Value"]
+
+ {
+
+ color:white;
+
+ background-color:red;
+
+ }
+QPushButton[text="Set Value"]
+
+{
+
+  color:white;
+
+  background-color:black;
+
+  }
+QPushButton[text="Get Value"]
+
+{
+
+ color:white;
+
+ background-color:orange;
+
+}
